@@ -1,0 +1,26 @@
+    1  history
+    2  ls
+    3  cd C:/RajB*/Challenge-12
+    4  git config --global user.name Raj Tolani
+    5  git config --global user.email admin@tolanicollection.com
+    6  git config --list
+    7  git clone https://github.com/rajtolani/Challenge-12-CreditRiskAnalysis.git
+    8  ls
+    9  cd Cha*
+   10  ls
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "This version has the original starter files provided by the Fintech BootCamp Staff.
+"
+   15  git push
+   16  git status
+   17  git status
+   18  git add .
+   19  git commit -m "This version has all the code completed for this challenge"
+   20  git push
+   21  git status
+   22  git add .
+   23  git commit -m "This commit contain the readme file and report. The contents of both the files are the same."
+   24  git push
+   25  history > terminal_history.txt
